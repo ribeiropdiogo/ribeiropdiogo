@@ -14,7 +14,9 @@ My name is [Diogo](https://github.com/ribeiropdiogo) and I'm a Software Engineer
     <img src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1607610172~hmac=63546a5c820e43cb779f044e4cb1aaec" align="left" alt="Gmail" width="22px"/>
 </a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiropdiogo)
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiropdiogo&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **ribeiropdiogo/ribeiropdiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

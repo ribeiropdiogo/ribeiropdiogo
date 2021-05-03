@@ -8,4 +8,4 @@ My name is [Diogo](https://github.com/ribeiropdiogo) and I'm a Software Engineer
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiropdiogo&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiropdiogo&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)

@@ -4,7 +4,6 @@ My name is [Diogo](https://github.com/ribeiropdiogo) and I'm a Software Engineer
 
 - 🔭 I’m currently in my 4th year (Master's)
 - 📕 I'm always open to learn new stuff
-- ⚙️ I'm currently working as a freelancer
 
 <br>
 

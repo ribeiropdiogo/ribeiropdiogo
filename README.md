@@ -2,7 +2,7 @@
 
 My name is [Diogo](https://github.com/ribeiropdiogo) and I'm a Software Engineering student at University of Minho in Braga, Portugal.🇵🇹
 
-- 🔭 I’m currently in my 4th year (Master's)
+- 🔭 I’m currently finishing my Master's degree
 - 📕 I'm always open to learn new stuff
 
 <br>

@@ -3,7 +3,7 @@
 My name is [Diogo](https://github.com/ribeiropdiogo) and I'm a PhD student at University of Minho in Braga, Portugal.🇵🇹
 
 - 📖 I’m currently pursuing my PhD
-- 🔬 I'm currently working as a researcher at HAS Lab INESC TEC
+- 🔬 I'm currently working as a researcher at HASLab INESC TEC
 - ✏️ I'm always open to learn new stuff
 
 <br>
